@@ -1,5 +1,6 @@
 {
-  "name": "online-todolist",
+  "name": "react-todolist",
+  "homepage": "https://54hanyi.github.io/react-todolist/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
